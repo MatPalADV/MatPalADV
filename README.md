@@ -11,7 +11,7 @@ I'm currently expanding my skills in:
 - 🐙 **Git**
 - 🐳 **Docker**
 - 🌿 **Laravel**
-- 🌐 **Node.js**
+- 🌐 **React.js**
 
 ## 📫 How to Reach Me
 📧 **Email:** [matteo.pallanza@adverteaser.com](mailto:matteo.pallanza@adverteaser.com)
