@@ -9,9 +9,8 @@ I'm passionate about:
 ## 🌱 Currently Learning
 I'm currently expanding my skills in:
 - 🐙 **Git**
-- 🐳 **Docker**
 - 🌿 **Laravel**
-- 🌐 **React.js**
+- 💡 **Filament**
 
 ## 📫 How to Reach Me
 📧 **Email:** [matteo.pallanza@adverteaser.com](mailto:matteo.pallanza@adverteaser.com)
